@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FilmesApp</string>
+    <string name="input_email">Digite seu e-mail</string>
+    <string name="input_senha">Digite sua senha</string>
+    <string name="btn_Logar">Logar</string>
+    <string name="Text_cadastrar">Novo por aqui? Inscreva-se agora</string>
+    <string name="input_nome">Digite seu nome</string>
+</resources>

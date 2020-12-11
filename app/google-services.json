@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449653209223",
+    "project_id": "filmesapp-86192",
+    "storage_bucket": "filmesapp-86192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449653209223:android:5834c39dc6e4fdd01d2022",
+        "android_client_info": {
+          "package_name": "com.nathan.filmesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449653209223-o8qg9d7211hhq8ue3fppmse4oagt8s29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nathan.filmesapp",
+            "certificate_hash": "b8214d6f87f8cab87b651b6b854a1f54a0bfc632"
+          }
+        },
+        {
+          "client_id": "449653209223-7k453hsouhqb3m32psumn49lvuicqjkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbKV5Sey7bBuDFceglBrsXLFO_3KXXED4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449653209223-7k453hsouhqb3m32psumn49lvuicqjkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
