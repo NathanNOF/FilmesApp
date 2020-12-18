@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageDescricao"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/poster_joker_descricao" />
+
+            <TextView
+                android:id="@+id/textAno"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ano: " />
+
+            <TextView
+                android:id="@+id/textGenero"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Gênero: " />
+
+            <TextView
+                android:id="@+id/textDescricao"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Descrição: " />
+
+            <Button
+                android:id="@+id/btnAssistir"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Assistir" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
